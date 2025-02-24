@@ -1,0 +1,2 @@
+# alogrithm
+for myself 
